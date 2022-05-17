@@ -131,25 +131,37 @@ installed.  If not, you will need to download it from the site above.
       
 
 ## Checking Set-up
+
+### Python and git
+
 A GitHub repository has been created with some simple steps for you to follow
 to verify that can execute git and Python on your computer.  Please visit
 <https://github.com/dward2/setup_verification> and follow the instructions
 found there.
 
+### MATLAB and git-lfs
+
+Visit <https://github.com/coganlab/MATLAB-env> and run the commands listed there.
+
 ## Learning Git
-If you really can't wait to get started...
-1. Never used git before?  Start with these resources:  
+If you really can't wait to get started... 
+### Never used git before?
+Start with these resources:  
   https://try.github.io/  
   https://www.codecademy.com/learn/learn-git  
   https://www.git-tower.com/learn/cheat-sheets/vcs-workflow  
   http://gitimmersion.com/  
   https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
-1. Familiar with git (or just completed the exercises above)?  Give this a try:
+### Familiar with git (or just completed the exercises above)?
+Give this a try:
   http://learngitbranching.js.org/
 
-1. Having trouble?  We'll be covering usage of many of these tools in upcoming
-  lectures.  
+### Having trouble?  We'll be covering usage of many of these tools in lab meeting
+
+Feel free to email (ae166@duke.edu) or slack me if you have issues.
+
+Better yet, open a new issue in the issues tab and assign me (Aaron) to the issue
 
 ## What We Will Eventually Learn How To Do In Git:
   + Create a git repository on your local computer.
