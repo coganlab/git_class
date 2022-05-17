@@ -8,7 +8,7 @@ professional user name is suggested.
 2. To communicate your GitHub user name to us, you will open a GitHub issue 
 with that information.
    1. Go into the repository (<https://github.com/coganlab/git_class>) and 
-  click on "Issues" in the tab bar at the top of the page.
+  click on "[Issues](https://github.com/coganlab/git_class/issues)" in the tab bar at the top of the page.
    2. Click on the green "New issue" button.
    3. In the title, enter your name and the GitHub user name you created. For 
   example, "David Ward - dward2".
@@ -161,7 +161,7 @@ Give this a try:
 
 Feel free to email (ae166@duke.edu) or slack me if you have issues.
 
-Better yet, open a new issue in the issues tab and assign me (Aaron) to the issue
+Better yet, open a new issue in the [issues tab](https://github.com/coganlab/git_class/issues) and assign me (Aaron) to the issue by clicking on the "asignees" tab on the right.
 
 ## What We Will Eventually Learn How To Do In Git:
   + Create a git repository on your local computer.
