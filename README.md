@@ -1,6 +1,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-# BME 547 - Medical Software Design
+# [Go here for the git class setup](https://github.com/coganlab/git_class/blob/main/Assignments/01_tool_setup_git_intro.md)
+## BME 547 - Medical Software Design
 ### Spring 2022
 
 This repository serves as the default collection for all resources associated
